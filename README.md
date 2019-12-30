@@ -1,4 +1,4 @@
-# task-manager
+# Task Manager App
 A task managing app built on Node.js framework.
 
 ## Installation
