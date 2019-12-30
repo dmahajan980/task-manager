@@ -7,11 +7,13 @@ A task managing app built on Node.js framework.
    ```bash
    npm install
    ```
-3. Run the application using the following command.
+   
+## Usage
+1. Run the application using the following command.
    ```bash
    npm run start
    ```
-4. Test the application using the following command.
+   Or you can test the application using the following command.
    ```bash
    npm run test
    ```
